@@ -1,4 +1,4 @@
 .env/
-Pipfile/
+*Pipfile/
 Pipfile.lock/
 data/
